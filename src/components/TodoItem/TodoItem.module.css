@@ -1,0 +1,13 @@
+.itemContainer{
+    display: flex;
+    justify-content: space-between;
+    margin: 15px;
+}
+.closeBtn{
+    color: red;
+    font-weight: bold;
+}
+
+.closeBtn:hover{
+    cursor: pointer;
+}
